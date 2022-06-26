@@ -25,6 +25,9 @@ When the zip file has the right structure it will be installed in the first linu
 It's possible to add extra image by manually add startup lines like STARTUP_LINUX_5, STARTUP_LINUX_6 <br />
 Copy STARTUP_LINUX_1, 2, 3 or 4 to STARTUP_LINUX_5, 6 etc, and modify the 'rootsubdir' option in the bootargs. <br />
 The kernel will be shared with the linux 1, 2, 3 or 4 image, depending on which startup file you copied. <br />
-<br />
-<br />
 
+* OE-A
+
+It wasn't a rule that images must be Open Source to be able to put their names here.
+Suddenly some OE-A members decided to drop some images (Not even considering how much they contributed to OE-A and Open Source) with the label "Closed" and keep some really "Closed" ones.
+Better not to rely on such people.
